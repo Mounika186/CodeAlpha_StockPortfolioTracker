@@ -1,0 +1,25 @@
+stock_name: TSLA
+stock_price: 250
+quantity: 5
+total investment: 1250
+stock_name: TSLA
+stock_price: 250
+quantity: 7
+total investment: 1750
+stock_name: APPL
+stock_name: TSLA
+stock_price: 250
+quantity: 6
+total investment: 1500
+stock_name: AAPL
+stock_price: 180
+quantity: 5
+total investment: 900
+stock_name: AAPL
+stock_price: 180
+quantity: 3
+total investment: 540
+stock_name: TSLA
+stock_price: 250
+quantity: 2
+total investment: 500
